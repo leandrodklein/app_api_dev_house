@@ -19,7 +19,8 @@
 ### Instalar o Cors
 - yarn add cors
 
-### Instalar a biblioteca Yup - validações de dados dos formulários
+### Instalar a biblioteca Yup - validações de dados nos formulários
+- yarn add yup
 
 ### Rodar o projeto 
 - yarn dev
